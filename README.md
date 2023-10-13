@@ -11,11 +11,11 @@
 
 ## Screenshots
 
-![App Screenshot](https://i.postimg.cc/W4JyqzRS/image-4.png)
-![App Screenshot](https://i.postimg.cc/jS2mKvZp/image-3.png)
-![App Screenshot](https://i.postimg.cc/L6HGQmf6/image-2.png)
-![App Screenshot](https://i.postimg.cc/fLm1pLBk/image-1.png)
-![App Screenshot](https://i.postimg.cc/d3KcVdL8/image.png)
+![App Screenshot](https://i.postimg.cc/DyNkStJv/image-4.png)
+![App Screenshot](https://i.postimg.cc/d3HMmf59/image-3.png)
+![App Screenshot](https://i.postimg.cc/tgWjQ2gX/image-2.png)
+![App Screenshot](https://i.postimg.cc/wjtzF68R/image-1.png)
+![App Screenshot](https://i.postimg.cc/6qYKbqpn/image.png)
 
 
 ## Tech Stack
