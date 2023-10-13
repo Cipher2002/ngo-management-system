@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Admin Dashboard</title>
+<link rel="stylesheet" href="./css/styles.css">
+</head>
+<body>
+    
+    <div class="container" style="max-width: fit-content;">
+    <h1>Admin Dashboard</h1>
+    </div>
+
+    <div class="container">
+        <table>
+            <tr>
+            <th>User ID</th>
+            <th>User Name</th>
+            <th>User Phone Number</th>
+            <th>Type of Donation</th>
+            <th>Action</th>
+            </tr>
+            <!-- JSP Code to Include admin_dashboard.jsp -->
+            <jsp:include page="admin_dashboard.jsp"/>
+        </table>
+    </div>
+
+    <!-- <div class="button-container" style="display: flex; gap: 20px;"> -->
+        <div class="btn">
+            <button class="logout-button"  onclick="window.location.href='./jsp/Logout.jsp';">Logout</button>
+        </div>
+        
+        <div class="btn">
+            <button class="button" onclick="window.location.href='edit_details.html';">Edit Details</button>
+        </div>
+        
+    <!-- </div> -->
+
+    </div>
+
+</body>
+</html>
